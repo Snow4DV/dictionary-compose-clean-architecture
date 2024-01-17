@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dictionary-compose-clean-architecture</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="synonyms">Synonyms:</string>
+    <string name="antonyms">Antonyms:</string>
+    <string name="definitions">Definitions:</string>
+    <string name="nothing_here">Nothing here :)</string>
+</resources>
